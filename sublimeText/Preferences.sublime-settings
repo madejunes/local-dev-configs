@@ -1,0 +1,19 @@
+{
+	"color_scheme": "Packages/Theme - Seti Monokai/scheme/Seti Monokai.tmTheme",
+	"folder_exclude_patterns":
+	[
+	],
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"index_exclude_patterns":
+	[
+		"node_modules/**",
+		"*.log"
+	],
+	"tab_size": 2,
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": true,
+}
